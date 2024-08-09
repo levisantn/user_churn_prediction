@@ -4,7 +4,11 @@ ___
 ## Overview
 
 This project aims to prevent monthly user churn on the Waze app. By analyzing the provided dataset of user information and behavior, we seek to understand why users churn and build a predictive model to identify users at risk of leaving the platform.
-![[./data/img/retained_churned_pie_chart.png]]
+
+<div align="center">
+	<img src="./data/img/retained_churned_pie_chart.png">
+</div>
+
 ___
 ## Features
 
@@ -27,9 +31,8 @@ In general, this project highlights the importance of understanding user behavio
 
 *This project demonstrates a strong foundation in data analysis, statistical modeling, and machine learning techniques. The ability to effectively communicate findings and provide actionable recommendations is crucial for data-driving businesses.*
 ___
-## Dataset
+## [Dataset](./data/waze_dataset.csv)
 
-![[waze_dataset.csv]]
 ___
 ___
 
