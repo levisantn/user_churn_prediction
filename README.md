@@ -1,4 +1,4 @@
-# User churn project
+# User churn prediction project
 
 ## Overview
 
